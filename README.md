@@ -1,2 +1,2 @@
 # some_poetry
-Some poetry written here and there
+Some poetry written or *illuminated* here and there
